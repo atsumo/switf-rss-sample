@@ -1,4 +1,4 @@
-SampleCamera
+swift-rss-sample
 ============
 
-camera app sample
+swift rss sample
